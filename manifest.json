@@ -2,7 +2,7 @@
 	"name": "Stuck on repeat",
 	"description": "__MSG_extDescription__",
 	"author": "David López",
-	"version": "0.12",
+	"version": "0.13",
 	"default_locale": "en",
 	"manifest_version": 2,
 	"browser_action": {
